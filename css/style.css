@@ -1,0 +1,30 @@
+body{
+    background-color: yellow;
+}
+h1{
+    background-color: red;
+}
+p{
+    background-color: green;
+}
+h2{
+    background-color: pink;
+}
+#paragraf{
+    background-color: purple;
+}
+ol{
+    background-color: white;
+}
+#pierwszy{
+     color: brown;
+}
+#drugi{
+     color: darkgreen;
+}
+#trzeci{
+     color: darkkhaki;
+}
+#czwarty{
+     color: greenyellow;
+}
